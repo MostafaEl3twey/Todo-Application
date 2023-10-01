@@ -2,7 +2,8 @@
 
 ![spring boot todo application](./screenshot.png)
 
-This is an ENTIRE application for Java Spring Boot built using:
+This application was built using:
+- Java
 - Spring Boot 3.1.4
 - Spring Data JPA
 - MySql Database
