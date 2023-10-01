@@ -5,5 +5,5 @@
 This is an ENTIRE application for Java Spring Boot built using:
 - Spring Boot 3.1.4
 - Spring Data JPA
-- H2 Database
+- MySql Database
 - Thymeleaf
